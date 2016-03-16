@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-     const int NUM_EMPLOYEES = 5;  // Number of employees
+     const int NUM_EMPLOYEES = 8;  // Number of employees
      int hours[NUM_EMPLOYEES] ;    // Array to hold hours
      double payrate;               // Hourly pay rate
      double grossPay;              // To hold the gross pay
